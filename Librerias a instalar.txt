@@ -1,0 +1,30 @@
+Librerias a instalar usando pip install
+google-generativeai
+fastapi
+uvicorn
+python-multipart 
+pyMuPDF 
+git+https://github.com/openai/whisper.git
+gtts 
+pydub
+torch
+sentence-transformers 
+faiss-cpu
+elevenlabs
+
+Para el front:
+npm install react
+npm install axios
+npm install react-media-recorder
+npm install next
+
+(Si descarga la carpeta del frontend, solo ejecuta el comando npm install. De esta manera se instalaran todas las dependecias descritas anteriormente para el frontend)
+
+#Importante instalar FFmpeg para poder usar whisper correctamente (PRIMORDIAL)
+Para instalar FFmpeg en su dispositivo windows, siga los siguientes pasos:
+1. Dirijase a la siguiente dirección URL: https://www.gyan.dev/ffmpeg/builds/
+2. Descargue el archivo comprimido denominado https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
+3. Descomprima el archivo y agrega la carpeta bin a las variables del sistema
+
+
+
